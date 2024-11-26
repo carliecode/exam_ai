@@ -4,8 +4,8 @@ This repository contains solutions to the Data Engineer Take Home Assessment. Th
 
 ## Project Structure
 
-- `part1/`: Contains solutions for Part 1 of the assessment.
-- `part2/`: Contains solutions for Part 2 of the assessment, along with a log file for the last question.
+- `Part 1/`: Contains solutions for Part 1 of the assessment.
+- `Part 2/`: Contains solutions for Part 2 of the assessment, along with a log file for the last question.
 
 ## Part 1: Python Coding Tasks
 
