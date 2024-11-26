@@ -32,3 +32,9 @@ select
     ShipAddress
 from customer_order
 where RankID = 1
+/*
+Due to the inability to replicate the original table, I adapted 
+my code to utilize the Adventureworks database instead. Although 
+the data records and column names differed significantly, I successfully 
+modified the code to align with the original question. 
+*/

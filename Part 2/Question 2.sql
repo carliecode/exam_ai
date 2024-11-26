@@ -28,3 +28,9 @@ left join student_scores scores
 on profiles.studentname = scores.studentname
 and profiles.subjectname = scores.subjectname
 order by profiles.studentname
+
+/*
+cross-apply produces a result such that
+for each record on table A, there will 
+be a corresponding complete set of table B
+*/

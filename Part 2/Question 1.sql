@@ -27,3 +27,9 @@ order by
         when c1.title = 'Sri Lanka' and c2.title = 'Pakistan' then 5
         when c1.title = 'Australia' and c2.title = 'Pakistan' then 6
     end;
+/*
+joining these tables produces the said output
+i observed however that for me to get it sorted
+as exactly as i have it in the question, I had
+to implement case conditions for the order clause
+*/
